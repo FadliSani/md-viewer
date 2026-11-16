@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Support/AppIcon-1024.png" alt="MD Viewer icon" width="160">
+</p>
+
 # MD Viewer
 
 A small, native Markdown viewer and editor for macOS, written in Swift and SwiftUI.
